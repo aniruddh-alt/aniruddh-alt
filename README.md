@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Aniruddhan Ramesh 👋
 
-<!--
-**aniruddh-alt/aniruddh-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a computer science student passionate about software development and machine learning.
 
-Here are some ideas to get you started:
+- 📫 How to reach me: rameshad@mail.uc.edu
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Languages**: Python, JavaScript, C++, C
+- **Frameworks**: React, Node.js, Django, Flask
+- **Tools**: Git, Docker
+- **Others**: Machine Learning (Supervised, Unsupervised and Reinforcement Learning)
+
+## 💼 Experience
+### Software Developer at iCDCU Lab @ UC
+*January 2023 – Present*
+- Develop a Research Project Management System for a pediatric heart research core.
+- Technologies used: Python (Flask), jQuery, HTML, CSS, SQLite
+
+### Enterprise Application Developer at Phillips Edison & Company
+*January 2024 – May 2024*
+- Develop SQL Scripts and streamline database operations
+- Develop web applications for enterprise usage, interact with users, and fix issues
+- Develop Generative AI applications using OpenAI and Langchain
+
+## 📚 Education
+### B.S. in Computer Science
+University of Cincinnati, *2022 – 2027*
+
+## 🏆 Projects
+### PhizzIO
+- Physical Therapy platform for visual-based exercise guidance. Technologies: Computer Vision, React.js, Flask API, Postgres (Tembo.io).
+
+## 🤝 Connect with Me
+- [LinkedIn] https://www.linkedin.com/in/aniruddhan-ramesh-7854a0221/
