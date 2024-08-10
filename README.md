@@ -29,7 +29,9 @@ University of Cincinnati, *2022 – 2027*
 
 ## 🏆 Projects
 ### PhizzIO
-- Physical Therapy platform for visual-based exercise guidance. Technologies: Computer Vision, React.js, Flask API, Postgres (Tembo.io).
+- Physical Therapy platform for visual-based exercise guidance. Tech: Computer Vision, React.js, Flask API, Postgres (Tembo.io).
+- Fake News Classifier for identifying false news articles using language. Tech: NLP, BERT, ML models(XGBoost, DecisionTrees, RandomForest, Logistic Regression).
+- Sentiment Analysis on IMDB Reviews. Fine-tuned DistlBERT on IMDB dataset. Tech: DistilBERT, HuggingFace (Trainer, Transformers, datasets, etc.)
 
 ## 🤝 Connect with Me
 - [LinkedIn] https://www.linkedin.com/in/aniruddhan-ramesh-7854a0221/
