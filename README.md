@@ -9,7 +9,7 @@ I'm a computer science student passionate about software development and machine
 - **Languages**: Python, JavaScript, C++, C
 - **Frameworks**: React, Node.js, Django, Flask
 - **Tools**: Git, Docker
-- **Others**: Machine Learning (Supervised, Unsupervised and Reinforcement Learning)
+- **Others**: Machine Learning (Supervised, Unsupervised, and Reinforcement Learning), HuggingFace (transformers), Deep Learning (Computer Vision, NLP, etc.)
 
 ## 💼 Experience
 ### Software Developer at iCDCU Lab @ UC
