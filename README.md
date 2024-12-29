@@ -6,7 +6,7 @@ I'm a computer science student passionate about software development and machine
 - 📫 How to reach me: rameshad@mail.uc.edu
 
 ## 🛠️ Skills
-- **Languages**: Python, JavaScript, C++, C
+- **Languages**: Python, JavaScript, C++, C, Rust
 - **Frameworks**: React, Node.js, Django, Flask
 - **Tools**: Git, Docker
 - **Others**: Machine Learning (Supervised, Unsupervised, and Reinforcement Learning), HuggingFace (transformers), Deep Learning (Computer Vision, NLP, etc.)
@@ -18,7 +18,7 @@ I'm a computer science student passionate about software development and machine
 - Technologies used: Python (Flask), jQuery, HTML, CSS, SQLite
 
 ### Enterprise Application Developer at Phillips Edison & Company
-*January 2024 – May 2024*
+*January 2024 – December 2024*
 - Develop SQL Scripts and streamline database operations
 - Develop web applications for enterprise usage, interact with users, and fix issues
 - Develop Generative AI applications using OpenAI and Langchain
