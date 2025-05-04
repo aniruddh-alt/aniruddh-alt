@@ -17,7 +17,7 @@ I'm a computer science student passionate about software development and machine
 - Develop a Research Project Management System for a pediatric heart research core.
 - Technologies used: Python (Flask), jQuery, HTML, CSS, SQLite
 
-### Enterprise Application Developer at Phillips Edison & Company
+### Software Engineering Intern at Phillips Edison & Company
 *January 2024 – December 2024*
 - Develop SQL Scripts and streamline database operations
 - Develop web applications for enterprise usage, interact with users, and fix issues
