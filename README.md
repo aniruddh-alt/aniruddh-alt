@@ -12,6 +12,12 @@ I'm a computer science student passionate about software development and machine
 - **Others**: Machine Learning (Supervised, Unsupervised, and Reinforcement Learning), HuggingFace (transformers), Deep Learning (Computer Vision, NLP, etc.)
 
 ## 💼 Experience
+
+### Machine Learning Intern @ Kinetic Vision
+*May 2025 – Present*
+- Training Deep Learning models and streamlining data pipelines
+- Technologies used: PyTorch, PyTest, Postgres
+
 ### Software Developer at iCDCU Lab @ UC
 *January 2023 – Present*
 - Develop a Research Project Management System for a pediatric heart research core.
