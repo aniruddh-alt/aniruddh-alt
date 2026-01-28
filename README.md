@@ -43,8 +43,7 @@
   SQL automation + enterprise web apps + GenAI apps (OpenAI, LangChain)
 
 ---
-
-  <summary><b>GitHub stats</b></summary>
+## Stats
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniruddh-alt&layout=compact" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniruddh-alt" />
