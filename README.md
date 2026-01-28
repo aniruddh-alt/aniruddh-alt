@@ -1,44 +1,54 @@
-# Hi, I'm Aniruddhan Ramesh 👋
+<div align="center">
 
-## 🚀 About Me
-I'm a computer science student passionate about software development and machine learning.
+# Hi, I'm Aniruddhan Ramesh
 
-- 📫 How to reach me: rameshad@mail.uc.edu
+**Machine Learning Engineer @ oumi.ai** • CS @ University of Cincinnati (2022–2027)  
 
-## 🛠️ Skills
-- **Languages**: Python, JavaScript, C++, C, Rust
-- **Frameworks**: React, Node.js, Django, Flask
-- **Tools**: Git, Docker
-- **Others**: Machine Learning (Supervised, Unsupervised, and Reinforcement Learning), HuggingFace (transformers), Deep Learning (Computer Vision, NLP, etc.)
+[Email](mailto:rameshad@mail.uc.edu) • [LinkedIn](https://www.linkedin.com/in/aniruddhan-ramesh-7854a0221/)
 
-## 💼 Experience
+</div>
 
-### Software Developer at iCDCU Lab @ UC
-*January 2023 – Present*
-- Develop a Research Project Management System for a pediatric heart research core.
-- Technologies used: Python (Flask), jQuery, HTML, CSS, SQLite
+---
 
-### Machine Learning Intern @ Kinetic Vision
-*May 2025 – August 2025*
-- Training Deep Learning models and streamlining data pipelines
-- Technologies used: PyTorch, PyTest, Postgres
+## What I’m working on
+- ML engineering: training/eval pipelines, dataset & experiment tooling, model debugging.
+- Interests: interpretability, LLMs, applied deep learning, and reliable software systems.
+- Always open to: research collabs, OSS contributions, and impactful ML engineering projects.
 
-### Software Engineering Intern at Phillips Edison & Company
-*January 2024 – December 2024*
-- Develop SQL Scripts and streamline database operations
-- Develop web applications for enterprise usage, interact with users, and fix issues
-- Develop Generative AI applications using OpenAI and Langchain
+---
 
-## 📚 Education
-### B.S. in Computer Science
-University of Cincinnati, *2022 – 2027*
+## Tech stack
+**Languages:** Python, JavaScript, C++, C, Rust  
+**ML:** PyTorch, HuggingFace Transformers, scikit-learn  
+**Web/Backend:** Flask, Django, Node.js, React  
+**Infra/Tools:** Git, Docker, Postgres, PyTest
 
-## 🏆 Projects
-- Physical Therapy platform for visual-based exercise guidance. Tech: Computer Vision, React.js, Flask API, Postgres (Tembo.io).
-- Fake News Classifier for identifying false news articles using language. Tech: NLP, BERT, ML models(XGBoost, DecisionTrees, RandomForest, Logistic Regression).
-- Sentiment Analysis on IMDB Reviews. Fine-tuned DistlBERT on IMDB dataset. Tech: DistilBERT, HuggingFace (Trainer, Transformers, datasets, etc.)
-- Apple Stock Forecasting using Pytorch LSTM model
-- MNIST Digit Recognizer using Neural Networks from scratch, developed a neural network with 95% accuracy without using deep learning libraries.
+---
 
-## 🤝 Connect with Me
-- [LinkedIn] https://www.linkedin.com/in/aniruddhan-ramesh-7854a0221/
+## Featured projects
+- **Physical Therapy Platform (CV + Web):** Visual-based exercise guidance (React, Flask API, Postgres).
+- **Fake News Classifier (NLP):** BERT + classical ML baselines (XGBoost/RandomForest/etc.).
+- **Sentiment Analysis (DistilBERT):** Fine-tuned on IMDB using HuggingFace Trainer.
+- **Apple Stock Forecasting:** PyTorch LSTM time-series model.
+- **MNIST from Scratch:** Neural network built without DL libraries (~95% accuracy).
+
+---
+
+## Experience
+- **Software Developer — iCDCU Lab @ UC** (Jan 2023 – Present)  
+  Research Project Management System (Flask, jQuery, SQLite)
+- **Machine Learning Intern — Kinetic Vision** (May 2025 – Aug 2025)  
+  Deep learning training + data pipelines (PyTorch, Postgres, PyTest)
+- **Software Engineering Intern — Phillips Edison & Company** (Jan 2024 – Dec 2024)  
+  SQL automation + enterprise web apps + GenAI apps (OpenAI, LangChain)
+
+---
+
+<details>
+  <summary><b>GitHub stats</b></summary>
+  <br />
+  <!-- Top Languages (optional) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniruddh-alt&layout=compact" />
+  <img src="https://streak-stats.demolab.com?user=aniruddh-alt" />
+
+</details>
